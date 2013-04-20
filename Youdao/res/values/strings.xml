@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Youdao</string>
+    <string name="check">查询</string>
+    <string name="clear">清空</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_youdao">Youdao</string>
+    
+
+</resources>
